@@ -11,3 +11,4 @@ lines = df.plot.line(   subplots=True,
 )
 plt.show()
 
+#visualization
